@@ -4,7 +4,11 @@
 🌱 I’m currently learning Django.<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel.<br>
-📫 How to reach me **jobintjohnson2000@gmail.com**
+📫 How to reach me 
+
+jobintjohnson2000@gmail.com
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
