@@ -1,6 +1,6 @@
-![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)
 <h1 align="center">Hi 👋, I'm JOBINTJ</h1>
 <h3 align="center">I am student in Amal Jyothi College of Engineering</h3>
+<img align="right" alt="Coding" width="100%" height="100%" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat" alt="jobintj24" /> </p>
 
