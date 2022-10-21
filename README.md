@@ -1,7 +1,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-<h1 align="center">Hi 👋, I'm JOBINTJ</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm JOBIN T J</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat" alt="jobintj24" /> </p>
