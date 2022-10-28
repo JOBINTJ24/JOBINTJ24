@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm JOBINTJ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="[![image](https://user-images.githubusercontent.com/98311514/198708852-cc8f75c2-fc77-4149-a1c6-7506e0b7662b.png)](https://www.lambdatest.com/resources/images/news24.gif)">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/98311514/198709302-dab4386a-bbab-4f40-961e-88c1b3ff52d6.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat" alt="jobintj24" /> </p>
 
