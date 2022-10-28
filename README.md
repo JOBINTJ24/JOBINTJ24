@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm JOBINTJ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/878034/screenshots/6026986/media/0af60c6d97ee04fc3e845970cb2a7bd4.gif">
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat" alt="jobintj24" /> </p>
 
