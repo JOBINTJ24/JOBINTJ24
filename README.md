@@ -1,5 +1,6 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+[![@jobin's Holopin board](https://holopin.me/jobin)](https://holopin.io/@jobin)
 <h1 align="center">Hi 👋, I'm JOBIN T J</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"><br>
@@ -24,6 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobintj24&show_icons=true&locale=en" alt="jobintj24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobintj24&" alt="jobintj24" /></p><br>
-<p> [![@jobin's Holopin board](https://holopin.me/jobin)](https://holopin.io/@jobin)] </p>
+
 
 
