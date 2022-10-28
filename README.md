@@ -24,6 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobintj24&show_icons=true&locale=en" alt="jobintj24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobintj24&" alt="jobintj24" /></p><br>
-<p> [![@jobin's Holopin board](https://holopin.me/jobin)](https://holopin.io/@jobin) </p>
+<p> [![@jobin's Holopin board]](https://holopin.me/jobin)](https://holopin.io/@jobin) </p>
 
 
