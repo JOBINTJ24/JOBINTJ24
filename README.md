@@ -7,6 +7,16 @@
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat" alt="jobintj24" /> </p>
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/hhpr98/count.svg" />  
+</p>
+
 <h1>About me 🙋</h1>
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
