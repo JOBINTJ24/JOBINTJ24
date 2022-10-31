@@ -8,14 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat" alt="jobintj24" /> </p>
 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/hhpr98/count.svg" />  
-</p>
 
 <h1>About me 🙋</h1>
 
