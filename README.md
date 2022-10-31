@@ -37,7 +37,7 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
+<h1>GitHub Stats 📊</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobintj24&show_icons=true&locale=en&layout=compact" alt="jobintj24" /></p>
 
