@@ -1,6 +1,7 @@
 [![@jobin's Holopin board](https://holopin.me/jobin)](https://holopin.io/@jobin)
 
-  <h1>## Hi, I’m jobin tj <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> <h1/>
+ 
+<h1 align="center">Hi 👋, I'm JOBINTJ</h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
