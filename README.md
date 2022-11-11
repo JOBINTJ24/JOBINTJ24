@@ -24,6 +24,7 @@
 - 📫 How to reach me **jobintjohnson2000@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
@@ -44,7 +45,7 @@
 
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <h1>GitHub Stats 📊</h1>
 
