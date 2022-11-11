@@ -51,12 +51,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobintj24&show_icons=true&locale=en" alt="jobintj24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobintj24&" alt="jobintj24" /></p>
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
-    ![Jokes Card](https://readme-jokes.vercel.app/api)
+   
 
 
 
