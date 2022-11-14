@@ -5,7 +5,7 @@
 
 
  
-<h1 align="center"><img width="50" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif">Hi <img src = "https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" width ="50"> I'm JOBIN T J<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="50px"></h1>
+<h1 align="center"><img width="50" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif">Hi <img src = "https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" width ="50"> I'm JOBIN T J<img src="https://docs.github.com/assets/cb-297329/images/help/repository/images-onion-view.gif" width="50px"></h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2a7fd3&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+studying+Masterof+ComputerApplication" /></a>
 </p>
