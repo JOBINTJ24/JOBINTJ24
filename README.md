@@ -64,7 +64,7 @@
 
  
 <div align=center>
-	<img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" alt="GitHub Octocat Logo" height="100">
+	
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>	
     </div>
