@@ -17,6 +17,7 @@
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"><h1>About me 🙋</h1>
+<p align="left">
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
 
