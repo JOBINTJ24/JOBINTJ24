@@ -53,8 +53,8 @@
 
 
 <h1>GitHub Stats 📊</h1>
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= jobintj24&theme=solarized_dark">
+
+<p><img align="left" img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= jobintj24&theme=solarized_dark"></p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username= jobintj24&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username= jobintj24&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username= jobintj24&theme=solarized_dark">
