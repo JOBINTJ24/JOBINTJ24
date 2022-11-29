@@ -64,6 +64,7 @@
 
  
 <div align=center>
+	<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
 	<img src="https://octodex.github.com/images/jetpacktocat.png" alt="GitHub Octocat Logo" height="300">
         <p>Loading</p>	
     </div>
