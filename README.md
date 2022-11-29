@@ -16,7 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat" alt="jobintj24" /> </p>
 
 
-<h1>About me 🙋</h1>
+<h1>About me 🙋<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
 <p align="left">
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
