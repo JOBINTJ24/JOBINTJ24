@@ -12,8 +12,9 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2a7fd3&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+studying+Masterof+ComputerApplication" /></a>
 </p>
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
-
-
+</p>
+</p>
+<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 </p>
 
 <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">About me 🙋</h1>
