@@ -64,7 +64,7 @@
 
  
 <div align=center>
-	<img src="https://octodex.github.com/images/jetpacktocat.png" alt="GitHub Octocat Logo" height="200">
+	<img src="https://octodex.github.com/images/jetpacktocat.png" alt="GitHub Octocat Logo" height="150">
     </div>
    
 
