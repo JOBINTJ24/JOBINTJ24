@@ -13,7 +13,9 @@
 </p>
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 </p>
-
+</p>
+<img align="right" alt="coding" width="500" src="https://octodex.github.com/images/jetpacktocat.png">
+</p>
 
 <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">About me 🙋</h1>
 <p align="left">
