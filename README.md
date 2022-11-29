@@ -64,10 +64,10 @@
 
  
 <div align=center>
-	<img src="https://octodex.github.com/images/jetpacktocat.png" alt="GitHub Octocat Logo" height="70">
+	<img src="https://octodex.github.com/images/jetpacktocat.png" alt="GitHub Octocat Logo" height="90">
 	<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="120">
 	<p>Loading</p>	
-	<img src="https://octodex.github.com/images/jetpacktocat.png" alt="GitHub Octocat Logo" height="70">
+	<img src="https://octodex.github.com/images/jetpacktocat.png" alt="GitHub Octocat Logo" height="90">
     </div>
    
 
