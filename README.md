@@ -54,7 +54,11 @@
 
 <h1>GitHub Stats 📊</h1>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobintj24&show_icons=true&locale=en&layout=compact" alt="jobintj24" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobintj24&show_icons=true&locale=en" alt="jobintj24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobintj24&" alt="jobintj24" /></p>
  
 
  <div align=center>
