@@ -17,7 +17,7 @@
 <img align="right" alt="coding" width="500" src="https://octodex.github.com/images/jetpacktocat.png">
 </p>
 
-<h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">About me 🙋</h1>
+<h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">About me 🙋 <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> </h1>
 <p align="left">
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
