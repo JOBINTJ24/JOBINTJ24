@@ -53,12 +53,15 @@
 
 
 <h1>GitHub Stats 📊</h1>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= jobintj24&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username= jobintj24&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username= jobintj24&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username= jobintj24&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username= jobintj24&theme=solarized_dark&utcOffset=8">
+	
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobintj24&show_icons=true&locale=en&layout=compact" alt="jobintj24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobintj24&show_icons=true&locale=en" alt="jobintj24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobintj24&" alt="jobintj24" /></p>
  
 
  <div align=center>
