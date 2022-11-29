@@ -13,7 +13,11 @@
 </p>
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jobintj24&label=Profile%20views&color=0e75b6&style=flat" alt="jobintj24" /> </p>
+<p align="left"> <img src="C" alt="jobintj24" /> </p>
+</p>
+<img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+
+<p align="left"> <img src="C" alt="jobintj24" /> </p>
 
 
 <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">About me 🙋</h1>
