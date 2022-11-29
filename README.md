@@ -58,7 +58,7 @@
 <p><img align="right" img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username= jobintj24&theme=solarized_dark"></p>
 <p><img align="left" img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username= jobintj24&theme=solarized_dark"></p>
 <p><img align="right" img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username= jobintj24&theme=solarized_dark"></p>
-<p><img align="right" img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username= jobintj24&theme=solarized_dark&utcOffset=8"></p>
+<p><img align="left" img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username= jobintj24&theme=solarized_dark&utcOffset=8"></p>
 	
 
  
