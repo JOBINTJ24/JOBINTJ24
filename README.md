@@ -9,6 +9,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="120px" height="120px">Hi <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="50"> I'm JOBIN T J<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="120px"></h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
+  
+  <p align="left"><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
   <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2a7fd3&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+studying+Masterof+ComputerApplication" /></a>
 </p>
