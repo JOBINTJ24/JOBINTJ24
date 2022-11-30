@@ -10,7 +10,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
   
-  <p align="left"><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+  <p align="left"><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
   <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2a7fd3&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+studying+Masterof+ComputerApplication" /></a>
 </p>
