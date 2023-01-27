@@ -58,7 +58,7 @@
 
 
 
-<h1></h2>GitHub Stats 📊</h1>
+<h1></h2>GitHub Stats 📊<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p><img align="center" img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= jobintj24&theme=solarized_dark" width="100%"></p>
 <p><img align="right" img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username= jobintj24&theme=solarized_dark"></p>
 <p><img align="left" img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username= jobintj24&theme=solarized_dark"></p>
