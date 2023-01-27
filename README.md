@@ -10,7 +10,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
   <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2a7fd3&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+studying+Masterof+ComputerApplication" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2a7fd3&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+studying+Masterof+ComputerApplication" /></a>
 </p>
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 </p>
@@ -18,7 +18,7 @@
 <img align="right" alt="coding" width="500" src="https://octodex.github.com/images/jetpacktocat.png">
 </p>
 
-<h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">About me 🙋<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"> </h1>
+<h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">About me 🙋 </h1>
 <p align="left">
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
