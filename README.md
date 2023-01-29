@@ -18,8 +18,8 @@
 <img align="right" alt="coding" width="500" src="https://octodex.github.com/images/jetpacktocat.png">
 </p>
 
-<h1>About me<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>  
-<p align="left"></h1>
+<h1>About me<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px></h1>  
+<p align="left">
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
 
