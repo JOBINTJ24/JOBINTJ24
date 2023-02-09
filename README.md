@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaviSolanki27" alt="ravisolanki" /> </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="120px" height="120px">Hi <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="50"> I'm <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">JOBIN T J<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="120px"></h1>
+<h1 Hi <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="50"> I'm <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">JOBIN T J<img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="120px"></h1>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
   <p align="center">
