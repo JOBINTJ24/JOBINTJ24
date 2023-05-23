@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Django**
 	
-- 🏆 my projcet **https://sparecare.pythonanywhere.com/**
+- 🏆 my projcet **http://sparecarestore.pythonanywhere.com/**
 	
 - 💬 Ask me about **Android,Django**
 
