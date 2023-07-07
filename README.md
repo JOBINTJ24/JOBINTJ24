@@ -22,11 +22,11 @@
 
 - 🔭 I’m currently working on **Amal Jyothi College of Engineering**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**,**Asp.Net**,**Flutter**
 	
 - 🏆 my projcet **http://sparecarestore.pythonanywhere.com/**
 	
-- 💬 Ask me about **Android,Django**
+- 💬 Ask me about **Android,Django**,**Asp.Net**,**Flutter**
 
 - 📫 How to reach me **jobintjohnson2000@gmail.com**
 
