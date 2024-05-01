@@ -1,5 +1,5 @@
 [![@jobin's Holopin board](https://holopin.me/jobin)](https://holopin.io/@jobin)
-[![@jobin's Holopin board](https://holopin.io/api/user/board?user=jobin)](https://holopin.io/@jobin)
+
 
 
 
@@ -52,7 +52,7 @@
 <img  align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 
 
-[![@jobin's Holopin board](https://holopin.me/jobin)](https://holopin.io/@jobin)
+
 
 
 
