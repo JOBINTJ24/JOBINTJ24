@@ -1,4 +1,6 @@
 [![@jobin's Holopin board](https://holopin.me/jobin)](https://holopin.io/@jobin)
+[![An image of @jobin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jobin)](https://holopin.io/@jobin)
+
 
 
 
