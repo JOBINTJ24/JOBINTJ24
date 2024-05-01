@@ -50,7 +50,7 @@
 <img  align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 
 
-
+[![@jobin's Holopin board](https://holopin.me/jobin)](https://holopin.io/@jobin)
 
 
 
@@ -71,7 +71,6 @@
 	<p>Loading</p>	
 	<img src="https://octodex.github.com/images/jetpacktocat.png" alt="GitHub Octocat Logo" height="90">
     </div>
-   [![An image of @jobin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jobin)](https://holopin.io/@jobin)
 
 
 
